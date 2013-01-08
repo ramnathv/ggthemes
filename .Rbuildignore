@@ -4,3 +4,5 @@ README.*
 figure
 .Rhistory
 stata/
+^.*\.Rproj$
+^\.Rproj\.user$
