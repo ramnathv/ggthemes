@@ -3,4 +3,4 @@ stata/*.png
 Rproj.user
 *.Rproj
 .Rproj.user
-test/
+docs/
